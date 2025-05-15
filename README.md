@@ -19,10 +19,3 @@ Create a `.env` file in the project root based on the provided `.env.example`:
 
 ```env
 GEMINI_API_KEY=your_real_api_key_here
-
-
-
-# ⚠️ Environment Warning
-
-**Do not commit your `.env` file.** It contains sensitive credentials like your API keys and should be kept private.  
-Use the provided `.env.example` file as a template and create your own local `.env` file.
