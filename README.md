@@ -22,7 +22,7 @@ GEMINI_API_KEY=your_real_api_key_here
 
 
 
-📁 Files in This Repo
+## 📁 Files in This Repo
 index.html – The main webpage
 
 app.js – Core app logic
