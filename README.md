@@ -26,16 +26,3 @@ GEMINI_API_KEY=your_real_api_key_here
 
 **Do not commit your `.env` file.** It contains sensitive credentials like your API keys and should be kept private.  
 Use the provided `.env.example` file as a template and create your own local `.env` file.
-
----
-
-## 📁 Files in This Repo
-
-| File | Description |
-|------|-------------|
-| `index.html` | The main webpage |
-| `app.js` | Core app logic |
-| `frontendScript.js` | Frontend handlers |
-| `gemini_api_call.js` | Gemini API logic |
-| `.gitignore` | Specifies which files Git should ignore |
-| `.env.example` | Template for environment variables |
